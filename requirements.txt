@@ -4,5 +4,6 @@ transformers
 chromadb
 pandas
 langdetect
-duckduckgo-search requests
+duckduckgo-search
+requests
 langchain-community
