@@ -1,0 +1,8 @@
+streamlit 
+langchain 
+transformers
+chromadb
+pandas
+langdetect
+duckduckgo-search requests
+langchain-community
