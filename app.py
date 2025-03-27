@@ -1,3 +1,6 @@
+!pip install streamlit langchain transformers chromadb pandas langdetect duckduckgo-search requests
+!pip install -U langchain-community
+
 import streamlit as st
 import os
 import sqlite3
